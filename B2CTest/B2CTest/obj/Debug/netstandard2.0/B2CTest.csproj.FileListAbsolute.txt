@@ -1,0 +1,17 @@
+C:\Users\nickl\B2CTest\B2CTest\B2CTest\obj\Debug\netstandard2.0\B2CTest.csproj.AssemblyReference.cache
+C:\Users\nickl\B2CTest\B2CTest\B2CTest\obj\Debug\netstandard2.0\B2CTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nickl\B2CTest\B2CTest\B2CTest\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\nickl\B2CTest\B2CTest\B2CTest\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\nickl\B2CTest\B2CTest\B2CTest\obj\Debug\netstandard2.0\LoginResultPage.xaml.g.cs
+C:\Users\nickl\B2CTest\B2CTest\B2CTest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\nickl\B2CTest\B2CTest\B2CTest\obj\Debug\netstandard2.0\B2CTest.AssemblyInfoInputs.cache
+C:\Users\nickl\B2CTest\B2CTest\B2CTest\obj\Debug\netstandard2.0\B2CTest.AssemblyInfo.cs
+C:\Users\nickl\B2CTest\B2CTest\B2CTest\obj\Debug\netstandard2.0\B2CTest.csproj.CoreCompileInputs.cache
+C:\Users\nickl\B2CTest\B2CTest\B2CTest\bin\Debug\netstandard2.0\B2CTest.deps.json
+C:\Users\nickl\B2CTest\B2CTest\B2CTest\bin\Debug\netstandard2.0\B2CTest.dll
+C:\Users\nickl\B2CTest\B2CTest\B2CTest\bin\Debug\netstandard2.0\B2CTest.pdb
+C:\Users\nickl\B2CTest\B2CTest\B2CTest\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\nickl\B2CTest\B2CTest\B2CTest\obj\Debug\netstandard2.0\B2CTest.dll
+C:\Users\nickl\B2CTest\B2CTest\B2CTest\obj\Debug\netstandard2.0\refint\B2CTest.dll
+C:\Users\nickl\B2CTest\B2CTest\B2CTest\obj\Debug\netstandard2.0\B2CTest.pdb
+C:\Users\nickl\B2CTest\B2CTest\B2CTest\obj\Debug\netstandard2.0\ref\B2CTest.dll
